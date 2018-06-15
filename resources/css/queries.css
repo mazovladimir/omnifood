@@ -63,6 +63,10 @@
     .steps-box:first-child {
         text-align: center;
     }
+    .social-links {
+        list-style: none;
+        float: left;
+    }
 }
 
 /* Small phones from 0 to 480px */
